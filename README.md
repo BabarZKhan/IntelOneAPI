@@ -1,4 +1,5 @@
-# IntelOneAPI
+# Intel DevCloud for oneAPI
+The Intel DevCloud is a development sandbox to learn about DPC++ and program oneAPI cross-architecture applications
 
 
 

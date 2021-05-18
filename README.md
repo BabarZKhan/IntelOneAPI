@@ -87,7 +87,7 @@ Code samples:
 - [Stable Sort By Key](https://github.com/oneapi-src/oneAPI-samples/tree/master/Libraries/oneDPL/stable_sort_by_key)
 - [Triangular Loop Optimization](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/Tutorials/DesignPatterns/triangular_loop)
 - [Double Buffering](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/Tutorials/DesignPatterns/double_buffering)
-- [Local Memory Cache]()
+- [Local Memory Cache](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/Tutorials/DesignPatterns/onchip_memory_cache)
 - [N-Way Buffering]()
 - [Compiling DPC++ for FPGA]()
 - [Separating Host and Device Code Compilation]()

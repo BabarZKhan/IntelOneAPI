@@ -37,3 +37,10 @@ ubuntu@ubuntukhan:~/InteloneAPI$ ssh devcloud
 #
 # Intel DevCloud Team
 ```
+
+Compute Nodes
+-------------------
+- CPU 
+  - Intel® Xeon® Scalable 6128 processors 
+- GPU
+- FPGA

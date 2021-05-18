@@ -3,7 +3,8 @@ The Intel DevCloud is a development sandbox to learn about DPC++ and program one
 
 
 
-# Installation and Connection to DevCloud using SSH Clients.
+ Installation and Connection to DevCloud using SSH Clients.
+ -------------------
 
 If you are running Linux operating system you can access the cluster using the native Secure Shell (SSH) client, you will need to set up SSH tunneling. The easiest method to set up SSH connection to is by downloading and running an automated installer. The installer will add SSH configuration entries to ~/.ssh/config and create a private SSH key file inside ~/.ssh. This method works best if you have only one account.
 

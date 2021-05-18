@@ -69,6 +69,12 @@ ubuntu@ubuntukhan:~/InteloneAPI$ ssh devcloud
 
 Code samples:
 -------------------
+- Basic
+- Advance
+
+  Basic
+  ---------------
+  
 - [Vector-Add](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2B/DenseLinearAlgebra/vector-add)
 - [Matrix Multiply for Intel Advisor](https://github.com/oneapi-src/oneAPI-samples/tree/master/Tools/Advisor/matrix_multiply_advisor)
 - [Matrix Multiply for VTune Profiler](https://github.com/oneapi-src/oneAPI-samples/tree/master/Tools/VTuneProfiler/matrix_multiply_vtune)

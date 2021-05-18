@@ -19,14 +19,15 @@ Execute this script in a terminal (you may need to adjust the command according 
 
  ``` 
 ubuntu@ubuntukhan:~/InteloneAPI$ 
-ubuntu@ubuntukhan:~/InteloneAPI$ bash ~/Downloads/setup-devcloud-access-59809.txt
+ubuntu@ubuntukhan:~/InteloneAPI$ bash ~/Downloads/setup-devcloud-access-$$$$$.txt
 The /home/ubuntu/.ssh directory for SSH client configuration already exists.
 Appending SSH connection configuration to /home/ubuntu/.ssh/config
-Creating the private SSH key /home/ubuntu/.ssh/devcloud-access-key-59809.txt
+Creating the private SSH key /home/ubuntu/.ssh/devcloud-access-key-$$$$$.txt
 Important: this file is your access key, keep it safe like you would a password.
 Done! Now you can access Intel DevCloud by running ssh devcloud or, if you are behind a proxy, ssh devcloud.proxy
 ubuntu@ubuntukhan:~/InteloneAPI$ 
 ubuntu@ubuntukhan:~/InteloneAPI$ 
 ubuntu@ubuntukhan:~/InteloneAPI$ pwd
 /home/ubuntu/InteloneAPI
+
 ``` 

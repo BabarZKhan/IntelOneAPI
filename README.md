@@ -86,7 +86,7 @@ Code samples:
 - [oneAPI Collective Communications Library (oneCCL) Getting Started]()
 - [Stable Sort By Key](https://github.com/oneapi-src/oneAPI-samples/tree/master/Libraries/oneDPL/stable_sort_by_key)
 - [Triangular Loop Optimization](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/Tutorials/DesignPatterns/triangular_loop)
-- [Double Buffering]()
+- [Double Buffering](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/Tutorials/DesignPatterns/double_buffering)
 - [Local Memory Cache]()
 - [N-Way Buffering]()
 - [Compiling DPC++ for FPGA]()

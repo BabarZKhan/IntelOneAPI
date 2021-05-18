@@ -1,6 +1,21 @@
 # Intel DevCloud for oneAPI
 The Intel DevCloud is a development sandbox to learn about DPC++ and program oneAPI cross-architecture applications
 
+Compute Nodes
+-------------------
+- CPU 
+  - Intel® Xeon® Scalable 6128 processors
+  - Intel® Xeon® Scalable 8256 processors
+  - Intel® Xeon® E-2176 P630 processors (with Intel® Graphics Technology) 
+ 
+- GPU
+  - Intel® Xeon® E-2176 P630 processors (with Intel® Graphics Technology)
+  - Intel® Iris® Xe MAX
+ 
+- FPGA
+  - Intel® Arria® 10 FPGAs
+  - Intel® Stratix® 10 FPGAs
+
 
 
  Installation and Connection to DevCloud using SSH Clients.
@@ -38,9 +53,3 @@ ubuntu@ubuntukhan:~/InteloneAPI$ ssh devcloud
 # Intel DevCloud Team
 ```
 
-Compute Nodes
--------------------
-- CPU 
-  - Intel® Xeon® Scalable 6128 processors 
-- GPU
-- FPGA

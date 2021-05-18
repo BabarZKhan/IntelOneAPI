@@ -1,0 +1,3 @@
+Hello Babar,
+We're so happy you joined us at our inaugural oneAPI DevSummit at IWOCL 2021 virtual conference. We are proud to have brought together such an amazing group of audience and speakers to discuss the innovative cross-platform, multi-vendor architecture oneAPI solutions. Your attendance and enthusiasm were very much appreciated.
+As promised, the event recordings are now available [here](https://www.oneapi.com/events/devcon2021iwocl/?cid=em&source=elo&campid=iags_WW_iagsoapiee_EN_2021_DevSummitApr26_C-MKA-22903_T-MKA-23175&content=iags_WW_iagsoapiee_EMSYS_EN_2021_DevSummitApr26TY_C-MKA-22903_T-MKA-23175&elq_cid=6358860&em_id=67217&elqrid=b20c0b8bad424e0b86d199e5c46f6536&elqcampid=43016&erpm_id=9466612)

@@ -1,6 +1,20 @@
 # Intel DevCloud for oneAPI
 The Intel DevCloud is a development sandbox to learn about DPC++ and program oneAPI cross-architecture applications
 
+
+
+
+
+Intel oneAPI Toolkits
+-------------------
+- Intel® oneAPI Base Toolkit
+- Intel® oneAPI HPC Toolkit
+- Intel® oneAPI AI Analytics Toolkit
+- Intel® oneAPI Rendering Toolkit
+
+
+
+
 Compute Nodes
 -------------------
 - CPU 

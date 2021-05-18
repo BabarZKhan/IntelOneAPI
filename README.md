@@ -2,14 +2,7 @@
 
 
 
-# Installation
-Basically there are two steps:
-
-- Step 1: Connect to DevCloud
-- Step 2: Hello World! Get Started by running a simple sample on DevCloud.
-
-# Step 1: Connect to DevCloud
-Connect to the DevCloud using SSH Clients.
+# Installation and Connection to DevCloud using SSH Clients.
 
 If you are running Linux operating system you can access the cluster using the native Secure Shell (SSH) client, you will need to set up SSH tunneling. The easiest method to set up SSH connection to is by downloading and running an automated installer. The installer will add SSH configuration entries to ~/.ssh/config and create a private SSH key file inside ~/.ssh. This method works best if you have only one account.
 
@@ -29,5 +22,22 @@ ubuntu@ubuntukhan:~/InteloneAPI$
 ubuntu@ubuntukhan:~/InteloneAPI$ 
 ubuntu@ubuntukhan:~/InteloneAPI$ pwd
 /home/ubuntu/InteloneAPI
-
-``` 
+ubuntu@ubuntukhan:~/InteloneAPI$ ssh devcloud
+###############################################################################
+#
+# Welcome to the Intel DevCloud for oneAPI Projects!
+#
+# 1) See https://devcloud.intel.com/oneapi/ for instructions and rules for
+# the OneAPI Instance.
+#
+# 2) See https://github.com/intel/FPGA-Devcloud for instructions and rules for
+# the FPGA Instance.
+#
+# Note: Your invitation email sent to you contains the authentication URL.
+#
+# If you have any questions regarding the cloud usage, post them at
+# https://software.intel.com/en-us/forums/intel-devcloud
+#
+# Intel DevCloud Team
+#
+```

@@ -67,3 +67,33 @@ ubuntu@ubuntukhan:~/InteloneAPI$ ssh devcloud
 # Intel DevCloud Team
 ```
 
+Code samples:
+-------------------
+- [Vector-Add](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2B/DenseLinearAlgebra/vector-add)
+- [Matrix Multiplication for Intel Advisor](https://github.com/oneapi-src/oneAPI-samples/tree/master/Tools/Advisor/matrix_multiply_advisor)
+- [Matrix Multiplication for Intel VTune Profiler](https://github.com/oneapi-src/oneAPI samples/tree/master/Tools/VTuneProfiler/matrix_multiply_vtune)
+- [Array Transform](https://github.com/oneapi-src/oneAPI-samples/tree/master/Tools/ApplicationDebugger/array-transform)
+- [TBD Complex Number Multiplication](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2B/DenseLinearAlgebra/complex_mult)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()

@@ -3,8 +3,6 @@ The Intel DevCloud is a development sandbox to learn about DPC++ and program one
 
 
 
-
-
 Intel oneAPI Toolkits
 -------------------
 - Intel® oneAPI Base Toolkit
@@ -109,9 +107,15 @@ Code samples:
 - [Cross-language FPGA libraries in DPC++ (provided by Audrey via email)](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/Tutorials/Tools/use_library)
 - [Discrete Cosine Transform](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2B/SpectralMethods/DiscreteCosineTransform)
 
-  Advance
+  Advance:
   ------------
 - [GZIP Compression](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/ReferenceDesigns/gzip)
 - [QR Matrix Decomposition](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/ReferenceDesigns/qrd)
 - [CRR Option Pricing](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/DPC%2B%2BFPGA/ReferenceDesigns/crr)
 - [PointPillars](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/End-to-end-Workloads/LidarObjectDetection-PointPillars) 
+
+
+
+Intel oneAPI Programming Guide:
+------------
+https://software.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top.html

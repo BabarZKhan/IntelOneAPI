@@ -124,3 +124,8 @@ Programming Guides:
 - The [DPC++ FPGA Code Samples Guide](https://software.intel.com/content/www/us/en/develop/articles/explore-dpcpp-through-intel-fpga-code-samples.html) helps you to navigate the  samples and build your knowledge of DPC++ for FPGA. <br>
 - The [oneAPI DPC++ FPGA Optimization Guide](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-fpga-optimization-guide) is the reference manual for  targeting FPGAs through DPC++. <br>
 - The [oneAPI Programming Guide](https://software.intel.com/en-us/oneapi-programming-guide) is a general resource for target-independent DPC++ programming.
+
+
+Complete git
+------------
+- [oneAPI-SRC](https://github.com/oneapi-src)

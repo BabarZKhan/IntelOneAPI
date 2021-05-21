@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/fpga_compile.cpp
+CL/sycl.hpp
+-
+CL/sycl/INTEL/fpga_extensions.hpp
+-
+iostream
+-
+vector
+-
+dpc_common.hpp
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/dpc_common.hpp
+

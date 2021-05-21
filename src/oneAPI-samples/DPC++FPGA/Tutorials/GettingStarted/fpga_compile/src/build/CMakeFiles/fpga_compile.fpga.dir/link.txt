@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic -fintelfpga -Xshardware -Xsboard=intel_s10sx_pac:pac_s10  CMakeFiles/fpga_compile.fpga.dir/fpga_compile.o  -o fpga_compile.fpga 

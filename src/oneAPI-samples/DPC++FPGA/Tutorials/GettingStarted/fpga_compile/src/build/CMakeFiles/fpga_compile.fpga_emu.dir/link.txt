@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic -fintelfpga CMakeFiles/fpga_compile.fpga_emu.dir/fpga_compile.o  -o fpga_compile.fpga_emu 

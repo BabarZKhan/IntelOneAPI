@@ -1,0 +1,8 @@
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/build/CMakeFiles/rebuild_cache.dir
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/build/CMakeFiles/edit_cache.dir
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/build/CMakeFiles/fpga_compile.fpga_emu.dir
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/build/CMakeFiles/fpga_compile.fpga.dir
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/build/CMakeFiles/fpga_emu.dir
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/build/CMakeFiles/report.dir
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/build/CMakeFiles/fpga_compile_report.a.dir
+/home/u59809/IntelOneAPI/src/oneAPI-samples/DPC++FPGA/Tutorials/GettingStarted/fpga_compile/src/build/CMakeFiles/fpga.dir

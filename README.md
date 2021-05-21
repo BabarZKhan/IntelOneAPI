@@ -1,5 +1,5 @@
 # Intel DevCloud for oneAPI
-The Intel DevCloud is a development sandbox to learn about DPC++ and program oneAPI cross-architecture applications
+This repo is for my Intel oneAPI experiments. Courtesy Intel, I have DevCloud account where I am running most of my experiments. The Intel DevCloud is a development sandbox to learn about DPC++ and program oneAPI cross-architecture applications
 
 
 

@@ -11,7 +11,7 @@ Intel oneAPI Toolkits
    - [Training Modules](https://devcloud.intel.com/oneapi/get_started/hpcTrainingModules/)
 - Intel oneAPI AI Analytics Toolkit
 - Intel oneAPI Rendering Toolkit
-   -[TrainingModules](https://devcloud.intel.com/oneapi/get_started/RenderingTrainingModules/)  
+   - [TrainingModules](https://devcloud.intel.com/oneapi/get_started/RenderingTrainingModules/)  
 
 
 

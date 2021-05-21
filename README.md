@@ -116,6 +116,6 @@ Code samples:
 
 
 
-Intel oneAPI Programming Guide:
+Programming Guides:
 ------------
-https://software.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top.html
+[Intel oneAPI Programming Guide](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top.html)

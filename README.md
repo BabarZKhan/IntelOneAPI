@@ -118,4 +118,5 @@ Code samples:
 
 Programming Guides:
 ------------
-[Intel oneAPI Programming Guide](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top.html)
+- [Intel oneAPI Programming Guide](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top.html)
+- [Explore DPC++ Through Intel® FPGA Code Samples](https://software.intel.com/content/www/us/en/develop/articles/explore-dpcpp-through-intel-fpga-code-samples.html)

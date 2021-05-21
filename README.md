@@ -5,10 +5,13 @@ This repo is for my Intel oneAPI experiments. Courtesy Intel, I have DevCloud ac
 
 Intel oneAPI Toolkits
 -------------------
-- Intel® oneAPI Base Toolkit
-- Intel® oneAPI HPC Toolkit
-- Intel® oneAPI AI Analytics Toolkit
-- Intel® oneAPI Rendering Toolkit
+- Intel oneAPI Base Toolkit
+   - [Training Modules](https://devcloud.intel.com/oneapi/get_started/baseTrainingModules/)
+- Intel oneAPI HPC Toolkit
+   - [Training Modules](https://devcloud.intel.com/oneapi/get_started/hpcTrainingModules/)
+- Intel oneAPI AI Analytics Toolkit
+- Intel oneAPI Rendering Toolkit
+   -[TrainingModules](https://devcloud.intel.com/oneapi/get_started/RenderingTrainingModules/)  
 
 
 

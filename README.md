@@ -102,3 +102,4 @@ Documentation, Training and Miscelleanous:
 Complete git
 ------------
 - [oneAPI-SRC](https://github.com/oneapi-src)
+- [LLVM based oneAPI Data Parallel C++ compiler](https://github.com/intel/llvm)

@@ -118,7 +118,7 @@ Code samples:
 
 
 
-Documentation:
+Documentation, Training and Miscelleanous:
 ------------
 - The [DPC++ FPGA Code Samples Guide](https://software.intel.com/content/www/us/en/develop/articles/explore-dpcpp-through-intel-fpga-code-samples.html) helps you to navigate the  samples and build your knowledge of DPC++ for FPGA. <br>
 - The [oneAPI DPC++ FPGA Optimization Guide](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-fpga-optimization-guide) is the reference manual for  targeting FPGAs through DPC++. <br>
@@ -126,6 +126,7 @@ Documentation:
 - [oneAPI DPC++ Compiler documentation](https://intel.github.io/llvm-docs/GetStartedGuide.html)
 - [oneAPI Specification](https://www.oneapi.com/spec/)
 - [Khronos Group](https://www.khronos.org/sycl/)
+- [oneAPI online training](https://software.seek.intel.com/learn-parallel-programming-dpc-essentials)
 
 
 Complete git

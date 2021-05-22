@@ -125,6 +125,7 @@ Documentation:
 - The [oneAPI Programming Guide](https://software.intel.com/en-us/oneapi-programming-guide) is a general resource for target-independent DPC++ programming.
 - [oneAPI DPC++ Compiler documentation](https://intel.github.io/llvm-docs/GetStartedGuide.html)
 - [oneAPI Specification](https://www.oneapi.com/spec/)
+- [Khronos Group] (https://www.khronos.org/sycl/)
 
 
 Complete git

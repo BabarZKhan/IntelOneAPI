@@ -102,7 +102,7 @@ Documentation, Training and Miscelleanous:
 - [Khronos Group](https://www.khronos.org/sycl/)
 - [oneAPI online training](https://software.seek.intel.com/learn-parallel-programming-dpc-essentials)
 - The online companion to the book namely "Data Parallel C++ Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL" is [oneAPI DPC++ language reference online](https://docs.oneapi.com/versions/latest/dpcpp/index.html)
-- [https://devcloud.intel.com/oneapi/documentation/shell-commands/](https://devcloud.intel.com/oneapi/documentation/shell-commands/)
+- [DevCloud Commands](https://devcloud.intel.com/oneapi/documentation/shell-commands/)
 
 
 Complete git

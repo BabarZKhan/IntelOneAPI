@@ -104,6 +104,7 @@ Documentation, Training and Miscelleanous:
 - The online companion to the book namely "Data Parallel C++ Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL" is [oneAPI DPC++ language reference online](https://docs.oneapi.com/versions/latest/dpcpp/index.html)
 - [DevCloud Commands](https://devcloud.intel.com/oneapi/documentation/shell-commands/)
 - Use Jupyter Notebook* to learn about how oneAPI can solve the challenges of programming in a heterogeneous world and understand the Data Parallel C++ (DPC++) language and programming model through [Introduction to oneAPI and Essentials of Data Parallel C++](https://jupyter.oneapi.devcloud.intel.com/user/u147641/lab/tree/oneAPI_Essentials/Welcome.ipynb?reset)
+- [Intel Technical Library Installation Guides](https://www.intel.com/content/www/us/en/developer/technical-library/installation-guides.html?s=Newest)
 
 
 Complete git

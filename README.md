@@ -14,6 +14,10 @@ Intel oneAPI Toolkits
 - Intel oneAPI AI Analytics Toolkit
 - Intel oneAPI Rendering Toolkit
    - [TrainingModules](https://devcloud.intel.com/oneapi/get_started/RenderingTrainingModules/)  
+- Intel OpenCL for FPGA development
+    - [Intel OpenCL for FPGA development](https://www.intel.com/content/www/us/en/software/programmable/sdk-for-opencl/overview.html)
+- RTL Acceleration Functional Unit
+    - [RTL Acceleration Functional Unit](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)   
 
 
 
